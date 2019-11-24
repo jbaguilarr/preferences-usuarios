@@ -70,6 +70,7 @@ class _SettingsPageState extends State<SettingsPage> {
               setState(() {
                  _genero = value;
               });
+              
             },
           ),
 
